@@ -53,3 +53,4 @@ def callback_worker(call):
 
 # Запуск постоянного опроса бота в Телеграме
 bot.polling(none_stop=True, interval=0)
+#
